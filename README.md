@@ -1,2 +1,2 @@
-# Reusable-Component-Demo
-A Reusable  Component Demo example
+# Toast Reusable Component
+A Library that shows the android Toast.
