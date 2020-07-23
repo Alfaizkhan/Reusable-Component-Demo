@@ -1,6 +1,5 @@
 apply plugin: 'maven-publish'
 apply plugin: 'com.jfrog.bintray'
-apply from: 'publish.gradle'
 
 version '1.0.0' // your library version
 group 'com.alfaizkhan'
